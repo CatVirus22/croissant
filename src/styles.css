@@ -4,8 +4,25 @@ body {
 }
 
 h1 {
-  font-size: 80px;
+  font-size: 65px;
   font-family: "Caveat", cursive;
+
+  margin-bottom: 15px;
+}
+
+img {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: block;
+}
+p {
+  font-family: "Roboto Mono", monospace;
+  font-size: 16px;
+  font-weight: bold;
+  width: 1200px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 a {
